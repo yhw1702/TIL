@@ -30,9 +30,25 @@
     - 원격 저장소(Remote Repository)
     - 실습
 
-
+<details open>
 ## 2022 10 20
-- 
+  <summary>열린 상태에서 시작</summary>
+<pre>
+내용 1
+내용 2
+내용 3
+</pre>
+</details>
+
+<details>
+  <summary>더보기</summary>
+<pre>
+내용 1
+내용 2
+내용 3
+</pre>
+</details>
+
 
 
 
