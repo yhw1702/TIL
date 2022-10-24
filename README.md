@@ -1,10 +1,10 @@
 # TIL
 
-
 >오늘 배운 것을 기록합니다.
 
-## 2022 05 17 (09:00 ~ 18:00)
-
+<details>
+  <summary>## 2022 05 17</summary>
+<pre>
 - CLI  기초
     - Git 설치
     - GUI와 CLI
@@ -29,19 +29,12 @@
 - Github
     - 원격 저장소(Remote Repository)
     - 실습
-
-<details open>
-## 2022 10 20
-  <summary>열린 상태에서 시작</summary>
-<pre>
-내용 1
-내용 2
-내용 3
 </pre>
 </details>
+
 
 <details>
-  <summary>더보기</summary>
+  <summary>## 2022 10 20</summary>
 <pre>
 내용 1
 내용 2
@@ -49,6 +42,15 @@
 </pre>
 </details>
 
+
+<details>
+  <summary>## 2022 10 20</summary>
+<pre>
+내용 1
+내용 2
+내용 3
+</pre>
+</details>
 
 
 
