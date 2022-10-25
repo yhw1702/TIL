@@ -6,28 +6,28 @@
   <summary>2022 05 17</summary>
 <pre>
 
-- CLI  기초
+## CLI  기초
     - Git 설치
     - GUI와 CLI
     - 경로 
 
-- Visual Studio Code
+## Visual Studio Code
     - Vixual Studio Code설치
     - Vscode extensions
     - Vscode에서 터미널 사용
 
 
-- Markdown
+## Markdown
     - Typora 시작하기
     - Markdown
     - 실습
 
 
-- GIT 기초
+## GIT 기초
     - Git 초기 설정
     - Git 기본 명령어
 
-- Github
+## Github
     - 원격 저장소(Remote Repository)
     - 실습
 </pre>
