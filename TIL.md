@@ -111,6 +111,7 @@ Mutual extension의 줄임말로 상호배제라고 합니다. 오직 하나의 
 
 프로세스끼리는 서로 독립적으로 메모리를 사용한다는 것은 
 Process A에서 실행되고 있는 프로그램에서는 Process B에 있는 heap/stack/data/text 에 관여할 수 없다는 뜻
+
 ![image](https://user-images.githubusercontent.com/105253684/198532052-dca8684d-598e-4a8a-9d4f-373470fbbf82.png)
 
 ## 1-2 스레드의 특징
@@ -122,6 +123,7 @@ Process A에서 실행되고 있는 프로그램에서는 Process B에 있는 he
 Thread 1 : 메시지를 받아내는 흐름
 Thread 2 : 메시지를 보내는 흐름
 Thread 3 : 메시지를 읽었는지 확인하는 흐름
+
 ![image](https://user-images.githubusercontent.com/105253684/198532806-9e553a8b-61e8-4c02-98a1-be32bbeddc96.png)
 
 
@@ -145,8 +147,6 @@ CPU소유권과 메모리를 할당받고 인스트럭션을 수행 중인 상�
 ### 종료 상태(terminated)
 메모리와 CPU 소유권을 모두 놓고 가는 상태를 말합니다.
 
-
-[출처] 개발자 면접예상질문 : 프로세스와 스레드 Process Thread 특징 및 차이점|작성자 은택이
 </pre>
 </details>
 
@@ -159,18 +159,4 @@ CPU소유권과 메모리를 할당받고 인스트럭션을 수행 중인 상�
 </details>
 
 
-<details>
-  <summary>2022 </summary>
-<pre>
-
-</pre>
-</details>
-
-
-<details>
-  <summary>2022 </summary>
-<pre>
-
-</pre>
-</details>
 
