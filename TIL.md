@@ -29,11 +29,38 @@ Mutual extension의 줄임말로 상호배제라고 합니다. 오직 하나의 
 
 
 <details>
-  <summary>2022 </summary>
+  <summary>스프링부트 개념정리</summary>
 <pre>
+
+# 스프링은?
+1. frame work임
+2. 오픈소스 - 소스가 공개되어 있음(뜯어고칠 수 있음)
+3. IoC(Inversion of Controll - 제어의 역전) 컨테이너를 가진다.
+  * 주도권이 스프링에 있다.
+4. DI(Dependency Injection)를 지원한다.
+5. 많은 필터를 가지고 있다.
+6. 많은 어노테이션이 있다. 
+7. MessageConverter를 가짐 기본값은 Json 
+  * MessageConverter : 중간언어로 변경해주는 스프링 라이브러리
+8. BufferedReader와 BufferedWriter를 쉽게 사용가능
+
+# JPA(Java Persistence API)란?
+1. 인터페이스이다.( 구현하는 실제 클래스가 필요 ex) Hibernate )
+2. ORM(Object Relational Mapping) 기술이다.
+* 객체로 구성한 데이터를 관계형 데이터베이스에 연결(맵핑)하고, 데이터에 대해 쿼리를 보내고 관리를 할 수 있는 도구
+3. 반복적인 CRUD 작업을 생략하게 해줌
+4. 영속성 컨텍스트를 가지고 있다.
+5. DB와 OOP의 불일치성을 해결하기 위한 방법론을 제공한다.(DB는 객체저장 불가능)
+6. 방언 처리가 용이하여 Migration하기 좋음. 유지보수에도 좋음
+
+
 
 </pre>
 </details>
 
+<details>
+  <summary>스프링부트 개념정리</summary>
+<pre>
 
-
+</pre>
+</details>
