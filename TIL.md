@@ -55,11 +55,32 @@ Mutual extension의 줄임말로 상호배제라고 합니다. 오직 하나의 
 6. OOP의 관점에서 모델링을 할 수 있게 해준다. (상속, 컴포지션, 연관관계)
 7. 방언 처리가 용이하여 Migration하기 좋음. 유지보수에도 좋음(mysql, 오라클 등 여러 RDBMS에 사용가능)
 
+# 스프링부트 동작원리
+1. 내장 톰켓을 가진다. - 톰켓을 따로 설치할 필요x
+2. 서블릿 컨테이너
+
+![image](https://user-images.githubusercontent.com/105253684/203491041-a09b1185-2193-4920-8d6a-924cb29bda00.png)
+
+3. web.xml (웹 배포서술자)
+  * ServletContext의 초기 파라미터 생성
+  * Session의 유효시간 설정
+  * Servlet/JSP에 대한 정의
+  * Servlet/JSP에 매핑
+  * Mime Type 매핑
+  * Welcome File list 설정
+  * Error Pages 처리
+  * 리스너/필터 설정
+  * 보안
+
+
+
+
+
 </pre>
 </details>
 
 <details>
-  <summary>스프링부트 개념정리</summary>
+  <summary>00</summary>
 <pre>
 
 </pre>
