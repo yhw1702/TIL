@@ -78,8 +78,31 @@ Mutual extension의 줄임말로 상호배제라고 합니다. 오직 하나의 
 </details>
 
 <details>
-  <summary>00</summary>
+  <summary>2022 12 08</summary>
 <pre>
+
+# dao dto vo 차이 
+dao는 db 커넥션까지 설정되어 있는 경우 많음
+dto는 순수한 데이터 객체로 getter, setter 메소드만 가진 클래스 가변성
+vo는 불변성 데이터를 가진 값 오브젝트
+
+# rest(Representational State Transfer)
+자원을 이름이나 표현으로 구분하여 해당 자원의 상태나 정보를 주고 받는 모든 것
+
+# rest api란?
+자원을 이름이나 표현으로 구분하여 해당 자원의 상태나 정보를 주고 받는 모든 것
+rest를 기반으로 서비스 api를 구현한 것
+
+# restful
+RESTful은 일반적으로 REST라는 아키텍처를 구현하는 웹 서비스
+
+# 스프링 스프링부트 차이
+스프링을 편하게 사용하기 위한 프레임워크
+스프링 사용을 위한 설정을 자동화하여 편하게 사용가능
+starter를 통한 디펜던시 자동화로 다양한 라이브러리 쉽게 사용
+내장톰켓이 있다.
+
+# ioc와 di
 
 </pre>
 </details>
